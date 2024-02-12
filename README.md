@@ -1,1 +1,3 @@
-"CSCI 5828 - Spring 2024 Homework 3 Done by: Nikola Tanovic" 
+"CSCI 5828 - Spring 2024 
+Homework 3 
+Done by: Nikola Tanovic" 
