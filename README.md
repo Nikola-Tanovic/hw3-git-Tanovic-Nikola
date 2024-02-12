@@ -1,4 +1,5 @@
 "CSCI 5828 - Spring 2024 
 Homework 3 
-Done by: Nikola Tanovic" 
-Samo treba jos vise voleti Partizan!
+Done by: Nikola Tanovic"
+Volim Partizan
+
