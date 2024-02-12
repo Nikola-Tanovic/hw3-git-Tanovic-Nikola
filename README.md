@@ -4,3 +4,4 @@ Done by: Nikola Tanovic"
 Samo treba jos vise voleti Partizan!
 Partizaaan i samo Partizaaan!
 Najbolji je ooon!
+On je sampiooon!
